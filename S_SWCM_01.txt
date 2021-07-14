@@ -6,6 +6,7 @@ int main( void )
 	
 	printf("First commit locally\n");
 	printf("Third commit made by branch\n");
+	printf("Second commit by another feature");
 
 	return 0; 
 
