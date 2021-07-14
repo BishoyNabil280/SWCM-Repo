@@ -5,7 +5,7 @@ int main( void )
 {
 	
 	printf("First commit locally\n");
-	printf("Second commit added from branch\n");
+	printf("Third commit made by branch\n");
 
 	return 0; 
 
