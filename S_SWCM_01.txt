@@ -5,6 +5,8 @@ int main( void )
 {
 	
 	printf("First commit locally\n");
+	
+	printf("Second commit buy another feature");
 	return 0; 
 
 } 
